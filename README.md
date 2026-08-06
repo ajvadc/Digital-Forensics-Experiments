@@ -6,7 +6,7 @@ A collection of digital forensics laboratory experiments completed as part of my
 
 | Experiment | Topic | Status |
 |------------|-------|--------|
-| 01 | Evidence Acquisition Using FTK Imager | ✅ Completed |
+| 01 | Evidence Acquisition Using FTK Imager | ⏳ In Progress |
 | 02 | Data Recovery Using TestDisk | ⏳ In Progress |
 | 03 | Network Analysis Using Wireshark | ⏳ In Progress |
 | 04 | Mobile Hardware/Handset Analysis (MHA) | ⏳ In Progress |
