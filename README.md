@@ -7,8 +7,15 @@ A collection of digital forensics laboratory experiments completed as part of my
 | Experiment | Topic | Status |
 |------------|-------|--------|
 | 01 | Evidence Acquisition Using FTK Imager | ✅ Completed |
-| 02 | Coming Soon | ⏳ |
-| 03 | Coming Soon | ⏳ |
+| 02 | Data Recovery Using TestDisk | ⏳ In Progress |
+| 03 | Network Analysis Using Wireshark | ⏳ In Progress |
+| 04 | Mobile Hardware/Handset Analysis (MHA) | ⏳ In Progress |
+| 05 | Forensic Investigation Using Autopsy | ⏳ In Progress |
+| 06 | Forensic Investigation Using Sleuth Kit | ⏳ In Progress |
+| 07 | Android Forensics (AF) Logical Acquisition | ⏳ In Progress |
+| 08 | Steganography and Steg-Analysis | ⏳ In Progress |
+| 09 | Windows Process Monitoring Using Process Explorer | ⏳ In Progress |
+| 10 | Reverse Engineering Using Ghidra | ⏳ In Progress |
 
 ## Tools Used
 
