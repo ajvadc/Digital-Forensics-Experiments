@@ -19,24 +19,17 @@ Experiment| Topic| Status
 Tools Used
 
 - AccessData FTK Imager
-- TestDisk
 - Autopsy
-- Sleuth Kit
 - Volatility
 - Wireshark
 - Kali Linux
 - Windows 10/11
-- Ghidra
-- Process Explorer
 
 Objectives
 
 - Learn digital evidence acquisition.
 - Perform disk and memory imaging.
 - Analyze forensic artifacts.
-- Recover deleted and lost data.
-- Analyze network traffic and digital evidence.
-- Perform Android and mobile forensic analysis.
 - Preserve evidence integrity using hash verification.
 - Gain hands-on experience with industry-standard forensic tools.
 
@@ -49,4 +42,4 @@ Kalasalingam Academy of Research and Education
 
 ---
 
-«Disclaimer: These experiments were performed in a controlled educational environment for learning digital forensics and cybersecurity.»
+«Disclaimer: These experiments are performed in a controlled educational environment for learning digital forensics and cybersecurity.»
